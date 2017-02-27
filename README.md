@@ -1,8 +1,8 @@
 #IRAS
 
 Here is my attempt at the IRAS satellite. Constructed at Hollandse Signaalapparaten which
-was my first employer. Though I was coding real time operating systems at the time rather
-than building telescopes it still feels like a great thing to at to KSP.
+was my first employer. Though I was coding real time operating systems at the time, rather
+than building telescopes, it still feels like a great thing to at to KSP.
 
 ## History
 
