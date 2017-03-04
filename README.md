@@ -79,6 +79,7 @@ Original link: [todo]
 ##Mod Support:
 
 * CTT
+* TarsierSpaceTech
 
 ##INSTALL:
 
@@ -90,11 +91,11 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 
 ##Experiments:
 
-* todo
+* Expose mirror to heat sources
 
 ##NOTES:
 
-* None
+* Solar Panels to be done
 
 ##PICTURES:
 
@@ -102,7 +103,7 @@ todo
 
 ##CREDITS:
 
-* All me
+* MacLuky with lots of tips from the forum
 
 ##LICENSE
 
