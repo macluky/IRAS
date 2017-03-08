@@ -79,6 +79,7 @@ Original link: [todo]
 ##Mod Support:
 
 * CTT
+* Bluedog Design Bureau
 * TarsierSpaceTech
 
 ##INSTALL:
@@ -88,6 +89,7 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 ##CONTENTS:
 
 * IRAS Telescope
+* IRAS Solar Panels
 
 ##Experiments:
 
@@ -95,7 +97,7 @@ Unzip into your main KSP folder, delete old versions before that. Have module ma
 
 ##NOTES:
 
-* Solar Panels to be done
+* No known issues
 
 ##PICTURES:
 
@@ -103,7 +105,7 @@ todo
 
 ##CREDITS:
 
-* MacLuky with lots of tips from the forum
+* MacLuky with lots of tips from the forum. Could not have done it without the help
 
 ##LICENSE
 
