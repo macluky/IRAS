@@ -96,16 +96,16 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="PartTools">
- <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky Parts Inc/IRAS/Unity/IRAS/Assets/PartTools/Lib/PartTools.dll</HintPath>
+ <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky/Projects/IRAS/Unity/IRAS/Assets/PartTools/Lib/PartTools.dll</HintPath>
  </Reference>
  <Reference Include="PartToolsEditor">
- <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky Parts Inc/IRAS/Unity/IRAS/Assets/PartTools/Lib/PartToolsEditor.dll</HintPath>
+ <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky/Projects/IRAS/Unity/IRAS/Assets/PartTools/Lib/PartToolsEditor.dll</HintPath>
  </Reference>
  <Reference Include="KSPAssetCompiler">
- <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky Parts Inc/IRAS/Unity/IRAS/Assets/Plugins/KSPAssets/KSPAssetCompiler.dll</HintPath>
+ <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky/Projects/IRAS/Unity/IRAS/Assets/Plugins/KSPAssets/KSPAssetCompiler.dll</HintPath>
  </Reference>
  <Reference Include="KSPAssets">
- <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky Parts Inc/IRAS/Unity/IRAS/Assets/Plugins/KSPAssets/KSPAssets.dll</HintPath>
+ <HintPath>/Users/lukassen/MEGA/Ons/KSP/MacLuky/Projects/IRAS/Unity/IRAS/Assets/Plugins/KSPAssets/KSPAssets.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll</HintPath>
