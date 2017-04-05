@@ -8,9 +8,11 @@ ModelImporter:
     100000: Colider
     100002: //RootNode
     100004: Telescope
+    100006: Camera
     400000: Colider
     400002: //RootNode
     400004: Telescope
+    400006: Camera
     2300000: Colider
     2300002: Telescope
     3300000: Colider
